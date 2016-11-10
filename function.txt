@@ -1,0 +1,7 @@
+
+//scala function structure
+
+def funcName(param1:dataType, param2:dataType){
+  function body
+  return valueToReturn
+}
